@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\Quality\PROG2027Assign2\PROG2027Assign2\PROG2027Assign2\bin\Debug\PROG2027Assign2.exe.config
+C:\Users\dell\Desktop\Quality\PROG2027Assign2\PROG2027Assign2\PROG2027Assign2\bin\Debug\PROG2027Assign2.exe
+C:\Users\dell\Desktop\Quality\PROG2027Assign2\PROG2027Assign2\PROG2027Assign2\bin\Debug\PROG2027Assign2.pdb
+C:\Users\dell\Desktop\Quality\PROG2027Assign2\PROG2027Assign2\PROG2027Assign2\obj\Debug\PROG2027Assign2.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Quality\PROG2027Assign2\PROG2027Assign2\PROG2027Assign2\obj\Debug\PROG2027Assign2.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Quality\PROG2027Assign2\PROG2027Assign2\PROG2027Assign2\obj\Debug\PROG2027Assign2.exe
+C:\Users\dell\Desktop\Quality\PROG2027Assign2\PROG2027Assign2\PROG2027Assign2\obj\Debug\PROG2027Assign2.pdb
