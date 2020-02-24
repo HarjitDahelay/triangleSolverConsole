@@ -29,7 +29,7 @@ namespace PROG2027Assign2
             }
             else
             {
-                output += "This is Scalene triangle";
+                output += "This is a valid Scalene triangle";
 
             }
            
